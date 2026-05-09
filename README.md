@@ -22,3 +22,9 @@ A computer vision project that converts normal images into cartoon-style images 
 
 ```bash
 pip install -r requirements.txt
+
+## Output Screenshot
+
+![Cartoon Output](Figure_1.png)
+
+
